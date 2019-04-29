@@ -1,0 +1,66 @@
+{
+  "_from": "angular-app-skeleton",
+  "_id": "angular-app-skeleton@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-LLfYwfCil0dzHGSFzipio5YO1pA=",
+  "_location": "/angular-app-skeleton",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular-app-skeleton",
+    "name": "angular-app-skeleton",
+    "escapedName": "angular-app-skeleton",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-app-skeleton/-/angular-app-skeleton-0.1.1.tgz",
+  "_shasum": "2cb7d8c1f0a29747731c6485ce2a62a3960ed690",
+  "_spec": "angular-app-skeleton",
+  "_where": "/home/betsy/history/history",
+  "author": {
+    "name": "Farhad Yasir"
+  },
+  "bugs": {
+    "url": "https://github.com/NutBoltu/angular-app-skeleton/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This is a skeleton of an angular application.",
+  "devDependencies": {
+    "bower": "1.7.9",
+    "gulp": "3.9.1",
+    "gulp-clean": "0.3.2",
+    "gulp-connect": "5.0.0",
+    "gulp-include-source": "0.0.5",
+    "gulp-jade": "1.1.0",
+    "gulp-minify": "0.0.14",
+    "gulp-ng-config": "1.3.1",
+    "gulp-ruby-sass": "2.1.0"
+  },
+  "homepage": "https://github.com/NutBoltu/angular-app-skeleton#readme",
+  "keywords": [
+    "angular app skeleton",
+    "angular-single-app-seed",
+    "angular",
+    "seed",
+    "angular app seed",
+    "angular-app-seed",
+    "angular skeleton"
+  ],
+  "license": "MIT",
+  "name": "angular-app-skeleton",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NutBoltu/angular-app-skeleton.git"
+  },
+  "scripts": {
+    "bower-install": "bower install"
+  },
+  "version": "0.1.1"
+}
